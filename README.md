@@ -2,7 +2,7 @@
 
 ## Quickstart
 
-- Get the **current release** for your platform ([here](https://github.com/tbleiker/trello-backup-cli/releases/)).
+- Get the **current release** for your platform ([here](https://github.com/tbleiker/trello-backup-cli/releases/)) and unzip in the folder of your choice.
 - **Login** to your trello account in your default web browser (here:  [https://trellos.com](https://trellos.com)).
 - Get the **API key**:
   - Run (all platforms): `trello-backup auth key`
